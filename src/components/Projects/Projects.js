@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Last-value"
               description="Collections of moments  or Workspace to share resources and share notes with friends build with react.js,redux, Material-UI,  Javascript and backend using Node.js,Mongodb,express, . Have features which allows user for realtime Liking, image sharing as well as supports comments on Clipboard."
-              link="https://github.com/soumyajit4419/Chatify"
+              link=""
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="Fakecomment-detector"
               description="Amazon Fake Review detector is a full stack project to determine the percentage of fake reviews associated with any amazon product. It was build with HTML, CSS, Bootstrap, Express, Node JS and machine learning API was used."
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="https://github.com/arai57478/Fake-Comment-detector"
             />
           </Col>
 
@@ -56,9 +56,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link=""
+              title="Portfolio"
+              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js"
+              link="https://dreamy-heyrovsky-6c792b.netlify.app/"
             />
           </Col>
 
